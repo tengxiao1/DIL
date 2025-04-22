@@ -39,5 +39,15 @@ bash Llama-8B-Base.sh
 * [Open LLM Leadboard v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) 
 
 
+##  Reference 
+
+If you find our repo to be useful, please cite our paper:
+```bibtex
+@inproceedings{DIL2025,
+  title={On a Connection Between Imitation Learning and RLHF},
+  author={Xiao, Teng; Yuan, Yige; Li, Mingxiao; Chen, Zhengyu; Honavar, Vasant G.},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2025}
+}
 
 
