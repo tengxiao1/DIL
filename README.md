@@ -1,6 +1,6 @@
-## Direct Imitation Learning: RLHF Secretly Performs Imitation Learning
+## On a Connection Between Imitation Learning and RLHF
 
-This repository contains the code for the ICLR 2025 submission [Direct Imitation Learning: RLHF Secretly Performs Imitation Learning](https://openreview.net/forum?id=2QdsjiNXgj). 
+This repository contains the code for our ICLR 2025 paper [On a Connection Between Imitation Learning and RLHF](https://openreview.net/forum?id=2QdsjiNXgj). 
 
 
 ### Environment
