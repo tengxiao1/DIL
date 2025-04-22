@@ -1,4 +1,4 @@
-## On a Connection Between Imitation Learning and RLHF
+ ## On a Connection Between Imitation Learning and RLHF (ICLR 2025)
 
 This repository contains the code for our ICLR 2025 paper [On a Connection Between Imitation Learning and RLHF](https://openreview.net/forum?id=2QdsjiNXgj). 
 
